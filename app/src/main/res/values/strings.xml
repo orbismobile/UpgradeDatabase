@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UpgradeDB</string>
+    <string name="list_person">Listado de Personas</string>
+    <string name="title_activity_register">Registrao</string>
+    <string name="enter_name">Nombres</string>
+    <string name="enter_lastname">Apellidos</string>
+    <string name="enter_email">Email</string>
+    <string name="register">REGISTRAR</string>
+    <string name="msg_enter_name">Ingrese Nombre</string>
+    <string name="msg_enter_lastname">Ingrese Apellido</string>
+    <string name="msg_enter_email">Ingrese Email</string>
+    <string name="msg_register">Registro insertado correctamente</string>
+</resources>
